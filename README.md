@@ -7,4 +7,4 @@ This project is a meeting scheduler using google calender api and microsoft exch
 ![](./Picture3.png)<br/>
 
 ### Break down of the project
-![](./Flowchart_.png)
+![](./Flowchart_Project.png)
