@@ -12,3 +12,8 @@ This project is a meeting scheduler using google calender api and microsoft exch
 ### Break down of the project
 ![](./Flowchart_Project.png)<br/>
 *This break down should help us divide the work load among our group*<br/>
+
+### Console Application
+**QuickStartCMD.zip
+* Go here to setup your creds here: https://console.cloud.google.com/apis/dashboard
+* The guide for the setup is here: https://developers.google.com/calendar/api/quickstart/js
