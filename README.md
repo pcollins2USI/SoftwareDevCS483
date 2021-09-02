@@ -10,5 +10,5 @@ This project is a meeting scheduler using google calender api and microsoft exch
 *Current and provided hardware from the client*<br/>
 
 ### Break down of the project
-![](./Flowchart_Project.png)
-*This break down should help us divide the work load among our group*
+![](./Flowchart_Project.png)<br/>
+*This break down should help us divide the work load among our group*<br/>
