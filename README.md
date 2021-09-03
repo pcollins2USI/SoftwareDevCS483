@@ -11,6 +11,8 @@ This project is a meeting scheduler using google calender api and microsoft exch
 
 ### Rough Layout of the project
 ![](./WebAppLayout.jpg)<br/>
+
+[Wiki Home Link](wiki/Home)
 *This break down should help us divide the work load among our group*<br/>
 
 ### Console Application
