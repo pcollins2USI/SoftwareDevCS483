@@ -18,5 +18,8 @@ This project is a meeting scheduler using google calender api and microsoft exch
 * Go here to setup your creds here: https://console.cloud.google.com/apis/dashboard
 * The guide for the setup is here: https://developers.google.com/calendar/api/quickstart/js
 
-### Rough how to enable the google's api and creating credentials
+### Rough how-to on: enabling the google's api and creating credentials
 ![](./EnableGoogleAPIGIF.gif)
+
+### Rough how-to on: using the credentials to get your google's calendar events
+![](./UsingCredsGIF.gif)
