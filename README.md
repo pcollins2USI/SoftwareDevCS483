@@ -3,7 +3,7 @@ This project is a meeting scheduler using google calender api and microsoft exch
 
 ### Given Figures
 ![](./Picture1.png)<br/>
-*The left side of the picture is the mount point for the device*<br/>
+*The right side of the picture is the mount point for the device*<br/>
 ![](./Picture2.png)<br/>
 *Suggested form layout from the client*<br/>
 ![](./Picture3.png)<br/>
