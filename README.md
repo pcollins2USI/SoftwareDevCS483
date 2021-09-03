@@ -9,8 +9,8 @@ This project is a meeting scheduler using google calender api and microsoft exch
 ![](./Picture3.png)<br/>
 *Current and provided hardware from the client*<br/>
 
-### Break down of the project
-![](./Flowchart_Project.png)<br/>
+### Rough Layout of the project
+![](./WebAppLayout.jpg)<br/>
 *This break down should help us divide the work load among our group*<br/>
 
 ### Console Application
