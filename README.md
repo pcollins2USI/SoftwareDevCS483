@@ -25,3 +25,6 @@ This project is a meeting scheduler using google calender api and microsoft exch
 
 ### Rough how-to on: using the credentials to get your google's calendar events
 ![](./UsingCredsGIF.gif)
+
+### How deploy our ASP.NET Web App using Azure
+[Link to youtube video](https://youtu.be/31dtFLQykLw)
