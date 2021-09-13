@@ -1,0 +1,13 @@
+/home/pi/Projects/GooglePiMeet/GooglePiMeet/obj/x86/Debug/.NETFramework,Version=v4.7.AssemblyAttribute.cs
+/home/pi/Projects/GooglePiMeet/GooglePiMeet/obj/x86/Debug/GooglePiMeet.gtk-gui.gui.stetic
+/home/pi/Projects/GooglePiMeet/GooglePiMeet/bin/Debug/GooglePiMeet.pdb
+/home/pi/Projects/GooglePiMeet/GooglePiMeet/bin/Debug/GooglePiMeet.exe
+/home/pi/Projects/GooglePiMeet/GooglePiMeet/obj/x86/Debug/GooglePiMeet.exe
+/home/pi/Projects/GooglePiMeet/GooglePiMeet/obj/x86/Debug/GooglePiMeet.pdb
+/home/pi/Projects/GooglePiMeet/GooglePiMeet/bin/Debug/Newtonsoft.Json.dll
+/home/pi/Projects/GooglePiMeet/GooglePiMeet/bin/Debug/Google.Apis.Core.dll
+/home/pi/Projects/GooglePiMeet/GooglePiMeet/bin/Debug/Google.Apis.dll
+/home/pi/Projects/GooglePiMeet/GooglePiMeet/bin/Debug/Google.Apis.PlatformServices.dll
+/home/pi/Projects/GooglePiMeet/GooglePiMeet/bin/Debug/Google.Apis.Auth.dll
+/home/pi/Projects/GooglePiMeet/GooglePiMeet/bin/Debug/Google.Apis.Auth.PlatformServices.dll
+/home/pi/Projects/GooglePiMeet/GooglePiMeet/bin/Debug/Google.Apis.Calendar.v3.dll

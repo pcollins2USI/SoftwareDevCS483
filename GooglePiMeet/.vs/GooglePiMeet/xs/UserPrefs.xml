@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{50D4B199-F427-4E1B-968D-3205A3A03E8A}|Default">
+  <MonoDevelop.Ide.ItemProperties.GooglePiMeet PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GooglePiMeet/MainWindow.cs">
+    <Files>
+      <File FileName="GooglePiMeet/Program.cs" Line="1" Column="1" />
+      <File FileName="GooglePiMeet/MainWindow.cs" Line="36" Column="47" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
